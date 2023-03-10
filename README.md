@@ -1,6 +1,6 @@
 # Thesis
 
-Codes and resources for the Master thesis "Exploring different Chinese segmentation approaches: Benefits of radical-based segmentation in low-resource text classification" (2022 Winter semester Eberhard-Karls-Universität Tübingen)
+This repository contains codes and resources for the Master thesis "Exploring different Chinese segmentation approaches: Benefits of radical-based segmentation in low-resource text classification" (2022-2023 Winter semester Eberhard-Karls-Universität Tübingen)
 
 ## Resources used in this project
 
